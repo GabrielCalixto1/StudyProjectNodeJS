@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-validator": "^0.1.27",
+    "read-excel-file": "^5.5.3"
+  }
+}
